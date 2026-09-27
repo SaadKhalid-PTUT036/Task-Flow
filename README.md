@@ -27,8 +27,8 @@ TaskFlow lets you organize work across boards with drag-and-drop Kanban columns.
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/taskflow.git
-cd taskflow
+git clone https://github.com/SaadKhalid-PTUT036/Task-Flow.git
+cd Task-Flow
 ```
 
 ### 2. Install dependencies
